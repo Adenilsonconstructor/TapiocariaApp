@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771583138420",
+    "project_id": "tapiocariaapp",
+    "storage_bucket": "tapiocariaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771583138420:android:c465ca2b37b0ddcc2e8f21",
+        "android_client_info": {
+          "package_name": "com.adenilsonsilva.tapiocariaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgxynwEPL7Vv96hgO_7lzLAXiUIuSLxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

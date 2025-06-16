@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_relatorios"
+        android:title="Relatórios"
+        android:icon="@drawable/ic_export"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_backup"
+        android:title="Fazer Backup"
+        app:showAsAction="never" />
+
+</menu>
